@@ -7,9 +7,9 @@ This project was created as part of a **Data Structures Simulation** assignment.
 
 ---
 
-## 🚀 Features Implemented
+##  Features Implemented
 
-### 🔹 **Basic Operations**
+### **Basic Operations**
 - Insert at Front
 - Insert at End
 - Insert at a Specific Position
@@ -19,7 +19,7 @@ This project was created as part of a **Data Structures Simulation** assignment.
 - Search for an Element
 - Display the Linked List
 
-### 🔹 **Additional Advanced Features**
+###  **Additional Advanced Features**
 - Count total nodes  
 - Reverse the linked list  
 - Insert elements in sorted order  
@@ -31,32 +31,32 @@ This project was created as part of a **Data Structures Simulation** assignment.
 
 ---
 
-## 📌 **Cycle Formation Note**
+##  **Cycle Formation Note**
 The linked list operations in this implementation **do not create cycles naturally**.  
 Cycle detection is included only as an **advanced feature** to demonstrate understanding of pointer algorithms.
 
 ---
 
-## 🧠 **How It Works (Menu-Driven Program)**
+##  **How It Works (Menu-Driven Program)**
 
 The program repeatedly displays this menu:
 
 ================ LINKED LIST MENU ================
 
-Insert at Front
-Insert at End
-Insert at Position
-Delete from Front
-Delete from End
-Delete from Position
-Search an Element
-Count Nodes
-Reverse Linked List
-Insert in Sorted Order
-Delete by Value
-Show Middle Element
-Detect Cycle
-Clear Linked List
+- Insert at Front
+- Insert at End
+- Insert at Position
+- Delete from Front
+- Delete from End
+- Delete from Position
+- Search an Element
+- Count Nodes
+- Reverse Linked List
+- Insert in Sorted Order
+- Delete by Value
+- Show Middle Element
+- Detect Cycle
+- Clear Linked List
 
 Exit
 ==================================================
@@ -67,36 +67,18 @@ The linked list updates instantly and is displayed before each iteration.
 
 ---
 
-## 📂 **Project Structure**
+##  **Project Structure**
 - `Node` class → Represents a single linked list node  
 - `LinkedList` class → Contains all operations  
 - Menu-driven `main()` function → Allows user interaction  
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 - **C++**
 - Object-Oriented Programming (Classes & Objects)
 - Pointer manipulation
 - Classic Linked List algorithms  
 
 ---
-
-## 📘 **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/linked-list-simulation.git
-2. Navigate to folder:
-
-cd linked-list-simulation
-
-
-3. Compile the program:
-
-g++ main.cpp -o linkedlist
-
-
-4. Run it:
-
-./linkedlist
 
